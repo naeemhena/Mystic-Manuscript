@@ -7,12 +7,14 @@
 •	SQL Development: SQL queries for data profiling, including row counts, schema analysis, and statistical calculations.
 •	Quality Control Framework: Formal quality control form to document all checks and procedures, establishing a repeatable and transparent audit process.
 •	Code Standardization: Adhered to strict SQLFluff linting standards, ensuring the delivery of clean, maintainable, and professional-grade code.
-<b> - Technologies Used: </b>
+
+<b> Technologies Used: </b>
 •	SQL (PostgreSQL)
 •	SQLFluff (Code Linting & Standardization)
 •	INFORMATION_SCHEMA (Metadata Analysis)
 •	Data Validation Techniques
-<b> - Key Deliverables: </b>
+
+<b> Key Deliverables: </b>
 •	SQL scripts for table creation and systematic data quality checks.
 •	A comprehensive Quality Control Form documenting the entire audit process.
 •	Seven core analytical queries for data profiling and validation.
